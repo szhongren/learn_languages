@@ -1,0 +1,9 @@
+(lang dune 3.0)
+
+(name learn_ocaml)
+
+(package
+ (name learn_ocaml)
+ (synopsis "Comprehensive OCaml Learning Repository")
+ (description "A detailed exploration of OCaml language features with extensive syntax explanations and examples covering basics, data structures, modules, advanced topics, and more.")
+ (depends ocaml dune unix))

@@ -1,0 +1,4 @@
+(library
+ (public_name learn_ocaml)
+ (name learn_ocaml)
+ (libraries unix))

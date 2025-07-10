@@ -1,0 +1,35 @@
+# Build directories
+_build/
+build/
+dist/
+
+# OCaml build artifacts
+*.cmi
+*.cmo
+*.cmx
+*.cma
+*.cmxa
+*.cmxs
+*.o
+*.a
+*.exe
+*.native
+*.byte
+.merlin-conf/
+dune-package
+*.install
+
+# Julia compiled files
+*.ji
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+.julia/
+
+# General
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.temp
+*~
